@@ -1,4 +1,4 @@
-# React Gallery
+# React Gallery 
 
 Link to the web: https://galeria.exitmatrix.ga/
 
